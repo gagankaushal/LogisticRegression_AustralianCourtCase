@@ -1,0 +1,6 @@
+('F1 score for classifier =', 99.73, '%')
+
+('Number of True Positives', 375)
+('Number of False Positives', 0)
+('Number of False Negatives', 2)
+('Number of True Negatives', 18347)
